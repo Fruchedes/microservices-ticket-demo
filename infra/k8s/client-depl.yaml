@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: cloudcorehub/ticketing-client
+          image: fruchedes/ticketing-client
 ---
 apiVersion: v1
 kind: Service
